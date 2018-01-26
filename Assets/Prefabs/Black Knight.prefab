@@ -276,6 +276,7 @@ GameObject:
   - component: {fileID: 95111544160445424}
   - component: {fileID: 143658693362207938}
   - component: {fileID: 114861689144845690}
+  - component: {fileID: 114554743982726394}
   m_Layer: 0
   m_Name: Black Knight
   m_TagString: Player
@@ -2065,6 +2066,23 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114554743982726394
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1410251730567268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d6a6b3d56ff84479db83d2f939cdc3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fillWaitImage_1: {fileID: 0}
+  fillWaitImage_2: {fileID: 0}
+  fillWaitImage_3: {fileID: 0}
+  fillWaitImage_4: {fileID: 0}
+  fillWaitImage_5: {fileID: 0}
+  fillWaitImage_6: {fileID: 0}
 --- !u!114 &114861689144845690
 MonoBehaviour:
   m_ObjectHideFlags: 1
